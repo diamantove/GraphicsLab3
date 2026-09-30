@@ -1,0 +1,17 @@
+C:\Users\Иван\source\repos\graphics\Graphics3\Graphics3\bin\Debug\net10.0-windows\Graphics3.exe
+C:\Users\Иван\source\repos\graphics\Graphics3\Graphics3\bin\Debug\net10.0-windows\Graphics3.deps.json
+C:\Users\Иван\source\repos\graphics\Graphics3\Graphics3\bin\Debug\net10.0-windows\Graphics3.runtimeconfig.json
+C:\Users\Иван\source\repos\graphics\Graphics3\Graphics3\bin\Debug\net10.0-windows\Graphics3.dll
+C:\Users\Иван\source\repos\graphics\Graphics3\Graphics3\bin\Debug\net10.0-windows\Graphics3.pdb
+C:\Users\Иван\source\repos\graphics\Graphics3\Graphics3\obj\Debug\net10.0-windows\Graphics3.Form1.resources
+C:\Users\Иван\source\repos\graphics\Graphics3\Graphics3\obj\Debug\net10.0-windows\Graphics3.csproj.GenerateResource.cache
+C:\Users\Иван\source\repos\graphics\Graphics3\Graphics3\obj\Debug\net10.0-windows\Graphics3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\source\repos\graphics\Graphics3\Graphics3\obj\Debug\net10.0-windows\Graphics3.AssemblyInfoInputs.cache
+C:\Users\Иван\source\repos\graphics\Graphics3\Graphics3\obj\Debug\net10.0-windows\Graphics3.AssemblyInfo.cs
+C:\Users\Иван\source\repos\graphics\Graphics3\Graphics3\obj\Debug\net10.0-windows\Graphics3.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\graphics\Graphics3\Graphics3\obj\Debug\net10.0-windows\Graphics3.dll
+C:\Users\Иван\source\repos\graphics\Graphics3\Graphics3\obj\Debug\net10.0-windows\refint\Graphics3.dll
+C:\Users\Иван\source\repos\graphics\Graphics3\Graphics3\obj\Debug\net10.0-windows\Graphics3.pdb
+C:\Users\Иван\source\repos\graphics\Graphics3\Graphics3\obj\Debug\net10.0-windows\Graphics3.genruntimeconfig.cache
+C:\Users\Иван\source\repos\graphics\Graphics3\Graphics3\obj\Debug\net10.0-windows\ref\Graphics3.dll
+C:\Users\Иван\source\repos\graphics\Graphics3\Graphics3\obj\Debug\net10.0-windows\Graphics3.csproj.Up2Date
